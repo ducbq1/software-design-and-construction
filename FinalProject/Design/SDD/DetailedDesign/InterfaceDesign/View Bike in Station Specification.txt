@@ -1,0 +1,3 @@
+Màn 1: Vào app sẽ hiện màn hình các bãi xe gần bạn
+Màn 2: Hiển thị danh sách xe trong bãi
+

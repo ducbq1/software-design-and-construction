@@ -1,0 +1,4 @@
+Màn 1: Hiển thị thông tin chi tiết xe định thuê
+Màn 2: Hiển thị dialog nhập mã xe  thuê
+Màn 3: Hiển thị bản đồ và thông tin xe thuê 
+và vị trí người dùng.
